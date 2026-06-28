@@ -1,0 +1,20 @@
+Network Scan Report
+===================
+Target  : scanme.nmap.org
+IP      : 45.33.32.156
+Date    : 2026-06-28 14:32:14
+Scanner : Kunjal Goyal | github.com/Kunjal2277
+
+Open Ports:
+  - 22  (SSH)
+  - 80  (HTTP)
+  - 443 (HTTPS)
+
+Security Notes:
+  - Port 22 (SSH)   : Low risk — encrypted but watch for brute-force
+  - Port 80 (HTTP)  : Medium — unencrypted traffic
+  - Port 443 (HTTPS): Low risk — encrypted connection
+
+Recommendation: Disable HTTP (80) and redirect all traffic to HTTPS (443).
+
+Scan Duration: 4.2s

@@ -1,0 +1,12 @@
+Network Scan Report
+===================
+Target  : scanme.nmap.org
+IP      : 45.33.32.156
+Date    : 2026-06-28 15:07:53
+Scanner : Kunjal G. | github.com/Kunjal2277
+
+Open Ports:
+  - 22 (SSH)
+  - 80 (HTTP)
+
+Scan Duration: 17.32s
